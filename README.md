@@ -1,20 +1,20 @@
 <!-- PROFIL README -->
 
-<h1 align="center">👋 Selam, ben  Recep Enes Yavaş</h1>
-<h3 align="center">🚀 Software Developer | Mobile & Web Specialist</h3>
+<h1 align="center">💥 Enes Yavaş | Full-Stack & Mobile Developer</h1>
+<h3 align="center">React | React Native | PHP | MySQL | Badisoft Founder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Mobile+%26+Web+Apps;Badisoft+Founder;Clean+Code+%7C+Scalable+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+%26+Mobile+Apps;Clean+Code+%7C+Scalable+Systems;React+%7C+React+Native;PHP+%7C+MySQL&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧠 Hakkımda
+## 🧩 Hakkımda
 - 💻 Web & Mobil Uygulama Geliştirici  
-- 📱 React Native ile mobil uygulamalar  
-- 🌐 React, PHP, MySQL tabanlı web projeleri  
-- 🏢 **Badisoft** kurucusu  
-- 🎯 Performans, ölçeklenebilirlik ve kullanıcı deneyimi odaklıyım
+- 🚀 React / React Native ile performans odaklı uygulamalar  
+- 🏢 **Badisoft** kurucusu, kurumsal yazılım çözümleri  
+- ⚡ Projeler: Win App, İndirim Platformu, Badisoft Web & Mobile  
+- 🎯 Kod yazmıyorum, sistem kuruyorum
 
 ---
 
@@ -29,27 +29,18 @@
 
 ---
 
-## 🚀 Aktif Projeler
- 
-- 🏢 **Badisoft** – Web & mobil yazılım çözümleri  
- 
-
----
-
-## 📊 GitHub İstatistikleri
+## 📈 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enesyavas&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesyavas&layout=compact&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark" height="170"/>
 </p>
 
 ---
 
-## 🔥 Motto
-> “Kod yazmıyorum, sistem kuruyorum.”
+## 🔗 İletişim
+- 🌐 Website: [badisoft.com](https://badisoft.com)  
+- 📩 DM açık, projeni konuşalım 😎
 
 ---
 
-## 📫 İletişim
-- 🌐 Website: **badisoft.com**  
-- 📩 DM açık – proje konuşulur 😎
-
+> 💥 “Yazılım bir iş değil, bir sanat.”  
