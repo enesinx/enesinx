@@ -1,46 +1,38 @@
-<!-- PROFIL README -->
+# 👋 Enes Yavaş
 
-<h1 align="center">💥 Enes Yavaş | Full-Stack & Mobile Developer</h1>
-<h3 align="center">React | React Native | PHP | MySQL | Badisoft Founder</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+%26+Mobile+Apps;Clean+Code+%7C+Scalable+Systems;React+%7C+React+Native;PHP+%7C+MySQL&center=true&width=500&height=45">
-</p>
+Full-Stack & Mobile Developer | Badisoft Founder
 
 ---
 
-## 🧩 Hakkımda
-- 💻 Web & Mobil Uygulama Geliştirici  
-- 🚀 React / React Native ile performans odaklı uygulamalar  
-- 🏢 **Badisoft** kurucusu, kurumsal yazılım çözümleri  
-- ⚡ Projeler: Win App, İndirim Platformu, Badisoft Web & Mobile  
-- 🎯 Kod yazmıyorum, sistem kuruyorum
+## 💻 Teknoloji Yetenekleri
+
+**React**  
+<div style="background-color:#eee; border-radius:5px; width:100%;"><div style="background-color:#61DBFB; width:90%; height:15px; border-radius:5px;"></div></div>
+
+**React Native**  
+<div style="background-color:#eee; border-radius:5px; width:100%;"><div style="background-color:#61DBFB; width:85%; height:15px; border-radius:5px;"></div></div>
+
+**PHP**  
+<div style="background-color:#eee; border-radius:5px; width:100%;"><div style="background-color:#777BB4; width:80%; height:15px; border-radius:5px;"></div></div>
+
+**MySQL**  
+<div style="background-color:#eee; border-radius:5px; width:100%;"><div style="background-color:#005C84; width:75%; height:15px; border-radius:5px;"></div></div>
+
+**JavaScript**  
+<div style="background-color:#eee; border-radius:5px; width:100%;"><div style="background-color:#f0db4f; width:85%; height:15px; border-radius:5px;"></div></div>
 
 ---
 
-## 🛠️ Teknolojiler
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-</p>
+## 🚀 Projeler
+- **Win App** – Mobil kazı kazan & ödül sistemi  
+- **Badisoft** – Web & mobil yazılım çözümleri  
+- **İndirim Platformu** – Kampanya & indirim sistemi  
 
 ---
 
 ## 📈 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark" height="170"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark)
 
 ---
 
-## 🔗 İletişim
-- 🌐 Website: [badisoft.com](https://badisoft.com)  
-- 📩 DM açık, projeni konuşalım 😎
-
----
-
-> 💥 “Yazılım bir iş değil, bir sanat.”  
+> 💥 "Kod yazmak yetmez, sistem kuracaksın."
