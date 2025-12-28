@@ -1,6 +1,7 @@
-# 👋 Enes Yavaş
+<!-- PROFIL README -->
 
-Full-Stack & Mobile Developer | Badisoft Founder
+<h1 align="center">💥 Enes Yavaş | Full-Stack & Mobile Developer</h1>
+<h3 align="center">React | React Native | PHP | MySQL | Badisoft Founder</h3>
 
 ---
 
@@ -30,8 +31,17 @@ Full-Stack & Mobile Developer | Badisoft Founder
 
 ---
 
-## 📈 GitHub İstatistikleri
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark)
+## 📊 GitHub İstatistikleri
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 📫 İletişim
+- 🌐 Website: [badisoft.com](https://badisoft.com)  
+- 📩 DM açık, projeni konuşalım 😎
 
 ---
 
